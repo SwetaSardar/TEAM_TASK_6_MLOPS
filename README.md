@@ -7,4 +7,4 @@
 
 ## 📌 When it recognize face, it
 ## 👉 Create EC2 instance in the AWS.
-## 👉 Create 10 GB EBS volume and attach it to the instance.
+## 👉 Create 5 GB EBS volume and attach it to the instance.
